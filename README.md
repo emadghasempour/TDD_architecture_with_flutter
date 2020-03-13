@@ -1,3 +1,2 @@
 # TDD architecture in flutter framework
-
-sample using TDD architecture coding
+using TDD architecture coding
