@@ -16,3 +16,9 @@ class CacheFailure extends Failure {
   // TODO: implement props
   List<Object> get props => null;
 }
+
+class InvalidInputFailure extends Failure {
+  @override
+  // TODO: implement props
+  List<Object> get props => null;
+}
